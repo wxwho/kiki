@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
     private void initView() {
         // TODO findViewById -> 버터나이프 -> 데이터바인딩
         // hoho
+        // 
         heightBtn = (Button)findViewById(R.id.heightBtn);
         dustBtn = (Button)findViewById(R.id.dustBtn);
     }
